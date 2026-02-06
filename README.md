@@ -128,13 +128,7 @@ Ein modernes, Laravel-basiertes Verwaltungssystem für Pferdehöfe zur Organisat
 1. Pferde → Pferd bearbeiten
 2. Checkbox "Boxenruhe" aktivieren
 3. Pferd wird automatisch für Rausbringen gesperrt
-
-## Sicherheitshinweise
-
-- `.env`-Datei ist in `.gitignore` und wird **nicht** ins Repository hochgeladen
-- Sensible Daten niemals committen
-- Für Produktion: `APP_DEBUG=false` setzen
-
+   
 ## Entwickelt als Bewerbungsprojekt
 
 Dieses System wurde als praktische Demonstration im Rahmen einer Bewerbung entwickelt.
