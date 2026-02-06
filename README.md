@@ -35,7 +35,7 @@ Ein modernes, Laravel-basiertes Verwaltungssystem für Pferdehöfe zur Organisat
 - Filterung nach Datum
 - Zuordnung zu Diensten
 
-## 🛠️ Technologie-Stack
+## Technologie-Stack
 
 - **Framework**: Laravel 12
 - **PHP**: 8.4
@@ -43,7 +43,7 @@ Ein modernes, Laravel-basiertes Verwaltungssystem für Pferdehöfe zur Organisat
 - **Frontend**: Tailwind CSS (via CDN)
 - **Development Environment**: Laravel Herd
 
-## 📦 Installation
+## Installation
 
 ### Voraussetzungen
 - PHP 8.4+
@@ -96,7 +96,7 @@ Ein modernes, Laravel-basiertes Verwaltungssystem für Pferdehöfe zur Organisat
    
    Browser: `http://localhost:8000`
 
-## 🗄️ Datenbank-Struktur
+## Datenbank-Struktur
 
 - **owners**: Einsteller-Daten
 - **horses**: Pferde mit Zuordnung zu Einstellern
@@ -104,7 +104,7 @@ Ein modernes, Laravel-basiertes Verwaltungssystem für Pferdehöfe zur Organisat
 - **duties**: Dienstplan-Einträge
 - **turnout_logs**: Historie aller Turnout-Aktionen
 
-## 🎨 Design-Highlights
+## Design-Highlights
 
 - Moderne, responsive UI mit Tailwind CSS
 - Intuitive Bedienung
@@ -112,7 +112,7 @@ Ein modernes, Laravel-basiertes Verwaltungssystem für Pferdehöfe zur Organisat
 - Hover-Effekte und Transitions
 - Icons zur visuellen Orientierung
 
-## 📝 Verwendung
+## Verwendung
 
 ### Pferd rausbringen
 1. Dashboard öffnen
@@ -129,18 +129,18 @@ Ein modernes, Laravel-basiertes Verwaltungssystem für Pferdehöfe zur Organisat
 2. Checkbox "Boxenruhe" aktivieren
 3. Pferd wird automatisch für Rausbringen gesperrt
 
-## 🔒 Sicherheitshinweise
+## Sicherheitshinweise
 
 - `.env`-Datei ist in `.gitignore` und wird **nicht** ins Repository hochgeladen
 - Sensible Daten niemals committen
 - Für Produktion: `APP_DEBUG=false` setzen
 
-## 👨‍💻 Entwickelt als Bewerbungsprojekt
+## Entwickelt als Bewerbungsprojekt
 
 Dieses System wurde als praktische Demonstration im Rahmen einer Bewerbung entwickelt.
 
 **Kontakt**: [J.Rowehl@googlemail.com]
 
-## 📄 Lizenz
+## Lizenz
 
 Dieses Projekt wurde für Bewerbungszwecke erstellt.
